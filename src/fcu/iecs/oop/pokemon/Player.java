@@ -23,6 +23,7 @@ public class Player
     {
 		this.level = level;
 	}
+    
     public int getPokemonsCP(int a)//可以選出我們所要的寵物 CP
     {
     	return Pokemons[a].getCp();

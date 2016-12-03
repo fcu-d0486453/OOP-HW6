@@ -20,6 +20,7 @@ public  class GYM
 		}
 		
 		int p1Point=0,p2Point=0;//比賽積分
+		
 		for( int i=0 ; i<3 ; i++ )//比賽比 3 場
 		{
 			if( players[0].getPokemonsType(i) != players[1].getPokemonsType(i) )//第 i 隻屬性

@@ -14,7 +14,6 @@ public class Pokemon
 		this.cp = cp;
 	}
     
-    
     public PokemonType getType() {
 		return this.Type;
 	}

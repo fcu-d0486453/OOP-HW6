@@ -2,8 +2,7 @@ package fcu.iecs.oop.pokemon;
 
 public class Main
 {
-
-	public static void main(String[] args) 
+    public static void main(String[] args) 
 	{
 	    Player player1 = new Player("Player One");
 

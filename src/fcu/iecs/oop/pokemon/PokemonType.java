@@ -1,5 +1,5 @@
 package fcu.iecs.oop.pokemon;
 
-public  enum PokemonType {
+public  enum PokemonType{
 	FIRE,WATER,GRASS;
 }
